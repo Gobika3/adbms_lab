@@ -3,7 +3,6 @@ Advanced DBMS
 Experiment 1: Accessing the database
 
 1.
-
 CREATE TABLE instructor (
   id INTEGER not null,
   name varchar(30),
