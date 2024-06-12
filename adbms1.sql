@@ -1,4 +1,6 @@
- create table employees(
+## TRIGGER
+
+create table employees(
 emp_id int primary key,
 first_name varchar(20),
 hourly_pay int,
@@ -118,6 +120,8 @@ insert into employees values( 3, "jjj",180,null,"doctor");
 +------------+--------------+---------------+
 
 
+##CURSOR
+ 
 import mysql.connector
 
 # Connection parameters
