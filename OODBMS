@@ -5,8 +5,6 @@ SQL> create type addr_ty as object
   5  zip varchar(9));
   6  /
 
-
-
 SQL> CREATE TYPE person_ty AS OBJECT
   2     (name   varchar2(25),
   3     address  addr_ty);
