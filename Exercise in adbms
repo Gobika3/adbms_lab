@@ -7,6 +7,7 @@ name varchar(30),
 city varchar(30),
 comission float
 );
+
 insert into salesman (salesman_id,name,city,comission)
 values
 (5001,"James Hoog","New York",0.15),
