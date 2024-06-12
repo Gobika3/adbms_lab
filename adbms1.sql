@@ -1,5 +1,4 @@
 ## TRIGGER
-
 create table employees(
 emp_id int primary key,
 first_name varchar(20),
